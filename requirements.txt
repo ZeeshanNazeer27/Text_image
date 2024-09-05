@@ -1,6 +1,6 @@
 torch
 streamlit
 diffusers
-tyransformers
+transformers
 PIL
 io
