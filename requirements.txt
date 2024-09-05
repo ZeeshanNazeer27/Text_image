@@ -1,6 +1,4 @@
 torch
 streamlit
 diffusers
-transformers
-PIL
-io
+
