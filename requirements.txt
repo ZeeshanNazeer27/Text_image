@@ -1,0 +1,6 @@
+torch
+streamlit
+diffusers
+tyransformers
+PIL
+io
